@@ -1,0 +1,26 @@
+/*TAGS*/
+a {
+  background: #aaaaa5;
+  height: 50px;
+  margin: 10px;
+  font-family: fantasy;
+  font-size: 14px;
+  padding: 3px;
+}
+
+/*CLASES*/
+.black {
+  background-color: black;
+  color: white;
+}
+
+.yellow {
+  background-color: #f7b617;
+}
+
+.yellow, .black {
+  height: 80px;
+  font-family: fantasy;
+  margin: 10px;
+  padding: 10px;
+}
